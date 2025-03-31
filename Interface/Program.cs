@@ -20,6 +20,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        //test
         Circle circle = new Circle();
         circle.Draw();
         circle.Paint("Blue");
